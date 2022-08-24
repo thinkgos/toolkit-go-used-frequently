@@ -6,7 +6,7 @@ require (
 	github.com/bufbuild/buf v1.7.0
 	github.com/gogo/protobuf v1.3.2
 	github.com/google/wire v0.5.0
-	github.com/grpc-ecosystem/grpc-gateway/v2 v2.11.2
+	github.com/grpc-ecosystem/grpc-gateway/v2 v2.11.3
 	github.com/jfeliu007/goplantuml v1.6.1
 	github.com/xo/usql v0.12.0
 	golang.org/x/tools v0.1.12
@@ -232,7 +232,7 @@ require (
 	golang.org/x/exp v0.0.0-20220722155223-a9213eeb770e // indirect
 	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
 	golang.org/x/net v0.0.0-20220802222814-0bcc04d9c69b // indirect
-	golang.org/x/oauth2 v0.0.0-20220722155238-128564f6959c // indirect
+	golang.org/x/oauth2 v0.0.0-20220822191816-0ebed06d0094 // indirect
 	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4 // indirect
 	golang.org/x/sys v0.0.0-20220731174439-a90be440212d // indirect
 	golang.org/x/term v0.0.0-20220722155259-a9ba230a4035 // indirect
@@ -240,7 +240,7 @@ require (
 	golang.org/x/xerrors v0.0.0-20220609144429-65e65417b02f // indirect
 	google.golang.org/api v0.91.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
-	google.golang.org/genproto v0.0.0-20220805133916-01dd62135a58 // indirect
+	google.golang.org/genproto v0.0.0-20220822174746-9e6da59bd2fc // indirect
 	google.golang.org/grpc v1.48.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/jcmturner/aescts.v1 v1.0.1 // indirect
