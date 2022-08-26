@@ -8,7 +8,7 @@ require (
 	github.com/google/wire v0.5.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.11.3
 	github.com/jfeliu007/goplantuml v1.6.1
-	github.com/xo/usql v0.12.4
+	github.com/xo/usql v0.12.13
 	golang.org/x/tools v0.1.12
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.2.0
 	google.golang.org/protobuf v1.28.1
@@ -47,7 +47,7 @@ require (
 	github.com/apache/arrow/go/arrow v0.0.0-20211112161151-bc219186db40 // indirect
 	github.com/apache/calcite-avatica-go/v5 v5.1.0 // indirect
 	github.com/apache/thrift v0.16.0 // indirect
-	github.com/aws/aws-sdk-go v1.44.84 // indirect
+	github.com/aws/aws-sdk-go v1.44.85 // indirect
 	github.com/aws/aws-sdk-go-v2 v1.16.11 // indirect
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.4.4 // indirect
 	github.com/aws/aws-sdk-go-v2/credentials v1.12.14 // indirect
@@ -79,7 +79,7 @@ require (
 	github.com/cncf/xds/go v0.0.0-20220520190051-1e77728a1eaa // indirect
 	github.com/cockroachdb/errors v1.9.0 // indirect
 	github.com/cockroachdb/logtags v0.0.0-20211118104740-dabe8e521a4f // indirect
-	github.com/cockroachdb/pebble v0.0.0-20220824161314-e729e744c7e6 // indirect
+	github.com/cockroachdb/pebble v0.0.0-20220825150106-c751cef4bf46 // indirect
 	github.com/cockroachdb/redact v1.1.3 // indirect
 	github.com/containerd/containerd v1.6.7 // indirect
 	github.com/containerd/typeurl v1.0.2 // indirect
@@ -214,7 +214,7 @@ require (
 	github.com/urfave/cli v1.22.9 // indirect
 	github.com/vertica/vertica-sql-go v1.2.2 // indirect
 	github.com/xinsnake/go-http-digest-auth-client v0.6.0 // indirect
-	github.com/xo/dburl v0.11.0 // indirect
+	github.com/xo/dburl v0.11.1 // indirect
 	github.com/xo/tblfmt v0.9.1 // indirect
 	github.com/xo/terminfo v0.0.0-20210125001918-ca9a967f8778 // indirect
 	github.com/xwb1989/sqlparser v0.0.0-20180606152119-120387863bf2 // indirect
@@ -233,7 +233,7 @@ require (
 	golang.org/x/net v0.0.0-20220822230855-b0a4917ee28c // indirect
 	golang.org/x/oauth2 v0.0.0-20220822191816-0ebed06d0094 // indirect
 	golang.org/x/sync v0.0.0-20220819030929-7fc1605a5dde // indirect
-	golang.org/x/sys v0.0.0-20220823224334-20c2bfdbfe24 // indirect
+	golang.org/x/sys v0.0.0-20220825204002-c680a09ffe64 // indirect
 	golang.org/x/term v0.0.0-20220722155259-a9ba230a4035 // indirect
 	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/xerrors v0.0.0-20220609144429-65e65417b02f // indirect
@@ -251,8 +251,8 @@ require (
 	gorm.io/driver/bigquery v1.0.18 // indirect
 	lukechampine.com/uint128 v1.2.0 // indirect
 	modernc.org/b v1.0.2 // indirect
-	modernc.org/cc/v3 v3.36.2 // indirect
-	modernc.org/ccgo/v3 v3.16.8 // indirect
+	modernc.org/cc/v3 v3.36.3 // indirect
+	modernc.org/ccgo/v3 v3.16.9 // indirect
 	modernc.org/db v1.0.4 // indirect
 	modernc.org/file v1.0.3 // indirect
 	modernc.org/fileutil v1.1.0 // indirect
@@ -263,7 +263,7 @@ require (
 	modernc.org/mathutil v1.5.0 // indirect
 	modernc.org/memory v1.2.0 // indirect
 	modernc.org/opt v0.1.3 // indirect
-	modernc.org/ql v1.4.1 // indirect
+	modernc.org/ql v1.4.2 // indirect
 	modernc.org/sortutil v1.1.0 // indirect
 	modernc.org/sqlite v1.18.1 // indirect
 	modernc.org/strutil v1.1.2 // indirect
