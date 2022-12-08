@@ -3,7 +3,7 @@ module toolkit-go-used-frequently
 go 1.18
 
 require (
-	github.com/bufbuild/buf v1.9.0
+	github.com/bufbuild/buf v1.10.0
 	github.com/gogo/protobuf v1.3.2
 	github.com/google/wire v0.5.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.14.0
@@ -72,7 +72,7 @@ require (
 	github.com/btnguyen2k/consu/reddo v0.1.7 // indirect
 	github.com/btnguyen2k/consu/semita v0.1.5 // indirect
 	github.com/btnguyen2k/gocosmos v0.1.6 // indirect
-	github.com/bufbuild/connect-go v1.0.0 // indirect
+	github.com/bufbuild/connect-go v1.1.0 // indirect
 	github.com/bufbuild/protocompile v0.1.0 // indirect
 	github.com/buger/jsonparser v1.1.1 // indirect
 	github.com/census-instrumentation/opencensus-proto v0.4.1 // indirect
@@ -83,7 +83,7 @@ require (
 	github.com/cockroachdb/logtags v0.0.0-20211118104740-dabe8e521a4f // indirect
 	github.com/cockroachdb/pebble v0.0.0-20221111210721-1bda21f14fc2 // indirect
 	github.com/cockroachdb/redact v1.1.3 // indirect
-	github.com/containerd/containerd v1.6.8 // indirect
+	github.com/containerd/containerd v1.6.9 // indirect
 	github.com/containerd/typeurl v1.0.2 // indirect
 	github.com/couchbase/go-couchbase v0.1.1 // indirect
 	github.com/couchbase/go_n1ql v0.0.0-20220303011133-0ed4bf93e31d // indirect
@@ -92,7 +92,7 @@ require (
 	github.com/cpuguy83/go-md2man/v2 v2.0.2 // indirect
 	github.com/dlclark/regexp2 v1.7.0 // indirect
 	github.com/docker/distribution v2.8.1+incompatible // indirect
-	github.com/docker/docker v20.10.19+incompatible // indirect
+	github.com/docker/docker v20.10.21+incompatible // indirect
 	github.com/docker/go-connections v0.4.0 // indirect
 	github.com/docker/go-units v0.5.0 // indirect
 	github.com/edsrzf/mmap-go v1.1.0 // indirect
@@ -102,6 +102,7 @@ require (
 	github.com/envoyproxy/protoc-gen-validate v0.9.0 // indirect
 	github.com/exasol/error-reporting-go v0.1.1 // indirect
 	github.com/exasol/exasol-driver-go v0.4.6 // indirect
+	github.com/felixge/fgprof v0.9.3 // indirect
 	github.com/form3tech-oss/jwt-go v3.2.5+incompatible // indirect
 	github.com/gabriel-vasile/mimetype v1.4.1 // indirect
 	github.com/genjidb/genji v0.15.1 // indirect
@@ -119,7 +120,7 @@ require (
 	github.com/godror/godror v0.35.0 // indirect
 	github.com/godror/knownpb v0.1.0 // indirect
 	github.com/gofrs/flock v0.8.1 // indirect
-	github.com/gofrs/uuid v4.3.0+incompatible // indirect
+	github.com/gofrs/uuid v4.3.1+incompatible // indirect
 	github.com/gohxs/readline v0.0.0-20171011095936-a780388e6e7c // indirect
 	github.com/golang-sql/civil v0.0.0-20220223132316-b832511892a9 // indirect
 	github.com/golang-sql/sqlexp v0.1.0 // indirect
@@ -129,6 +130,7 @@ require (
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/google/flatbuffers v22.10.26+incompatible // indirect
 	github.com/google/go-cmp v0.5.9 // indirect
+	github.com/google/pprof v0.0.0-20221102093814-76f304f74e5e // indirect
 	github.com/google/subcommands v1.2.0 // indirect
 	github.com/google/uuid v1.3.0 // indirect
 	github.com/googleapis/enterprise-certificate-proxy v0.2.0 // indirect
@@ -180,7 +182,7 @@ require (
 	github.com/mithrandie/go-file/v2 v2.1.0 // indirect
 	github.com/mithrandie/go-text v1.5.4 // indirect
 	github.com/mithrandie/ternary v1.1.1 // indirect
-	github.com/moby/buildkit v0.10.4 // indirect
+	github.com/moby/buildkit v0.10.5 // indirect
 	github.com/moby/term v0.0.0-20220808134915-39b0c02b01ae // indirect
 	github.com/morikuni/aec v1.0.0 // indirect
 	github.com/nakagami/firebirdsql v0.9.4 // indirect
@@ -191,7 +193,7 @@ require (
 	github.com/pierrec/lz4/v4 v4.1.17 // indirect
 	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
-	github.com/pkg/profile v1.6.0 // indirect
+	github.com/pkg/profile v1.7.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/prestodb/presto-go-client v0.0.0-20220921130148-c3f935ff1cf9 // indirect
 	github.com/prometheus/client_golang v1.14.0 // indirect
@@ -210,7 +212,7 @@ require (
 	github.com/snowflakedb/gosnowflake v1.6.14 // indirect
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
 	github.com/spf13/afero v1.9.2 // indirect
-	github.com/spf13/cobra v1.6.0 // indirect
+	github.com/spf13/cobra v1.6.1 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/thda/tds v0.1.7 // indirect
 	github.com/trinodb/trino-go-client v0.305.0 // indirect
@@ -225,7 +227,7 @@ require (
 	github.com/ziutek/mymysql v1.5.4 // indirect
 	gitlab.com/nyarla/go-crypt v0.0.0-20160106005555-d9a5dc2b789b // indirect
 	go.opencensus.io v0.24.0 // indirect
-	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.36.3 // indirect
+	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.36.4 // indirect
 	go.opentelemetry.io/otel v1.11.1 // indirect
 	go.opentelemetry.io/otel/metric v0.33.0 // indirect
 	go.opentelemetry.io/otel/trace v1.11.1 // indirect
