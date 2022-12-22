@@ -8,7 +8,7 @@ require (
 	github.com/google/wire v0.5.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.14.0
 	github.com/jfeliu007/goplantuml v1.6.1
-	github.com/xo/usql v0.13.3
+	github.com/xo/usql v0.13.4
 	golang.org/x/tools v0.4.0
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.2.0
 	google.golang.org/protobuf v1.28.2-0.20220831092852-f930b1dc76e8
@@ -55,11 +55,11 @@ require (
 	github.com/apache/calcite-avatica-go/v5 v5.2.0 // indirect
 	github.com/apache/thrift v0.17.0 // indirect
 	github.com/avast/retry-go v3.0.0+incompatible // indirect
-	github.com/aws/aws-sdk-go v1.44.162 // indirect
+	github.com/aws/aws-sdk-go v1.44.164 // indirect
 	github.com/aws/aws-sdk-go-v2 v1.17.3 // indirect
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.4.10 // indirect
-	github.com/aws/aws-sdk-go-v2/credentials v1.13.5 // indirect
-	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.11.44 // indirect
+	github.com/aws/aws-sdk-go-v2/credentials v1.13.7 // indirect
+	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.11.46 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/configsources v1.1.27 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.4.21 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.0.18 // indirect
@@ -88,7 +88,7 @@ require (
 	github.com/cncf/xds/go v0.0.0-20221128185840-c261a164b73d // indirect
 	github.com/cockroachdb/errors v1.9.0 // indirect
 	github.com/cockroachdb/logtags v0.0.0-20211118104740-dabe8e521a4f // indirect
-	github.com/cockroachdb/pebble v0.0.0-20221213170459-33377d59d70e // indirect
+	github.com/cockroachdb/pebble v0.0.0-20221220215741-4510a8c5f244 // indirect
 	github.com/cockroachdb/redact v1.1.3 // indirect
 	github.com/containerd/containerd v1.6.9 // indirect
 	github.com/couchbase/go-couchbase v0.1.1 // indirect
@@ -230,7 +230,7 @@ require (
 	github.com/spf13/cobra v1.6.1 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/thda/tds v0.1.7 // indirect
-	github.com/trinodb/trino-go-client v0.307.0 // indirect
+	github.com/trinodb/trino-go-client v0.308.0 // indirect
 	github.com/twmb/murmur3 v1.1.6 // indirect
 	github.com/uber-go/tally v3.5.0+incompatible // indirect
 	github.com/uber/athenadriver v1.1.14 // indirect
@@ -276,15 +276,15 @@ require (
 	modernc.org/ccgo/v3 v3.16.13 // indirect
 	modernc.org/db v1.0.5 // indirect
 	modernc.org/file v1.0.5 // indirect
-	modernc.org/fileutil v1.1.1 // indirect
+	modernc.org/fileutil v1.1.2 // indirect
 	modernc.org/golex v1.0.2 // indirect
-	modernc.org/internal v1.0.5 // indirect
+	modernc.org/internal v1.0.6 // indirect
 	modernc.org/libc v1.22.2 // indirect
 	modernc.org/lldb v1.0.4 // indirect
 	modernc.org/mathutil v1.5.0 // indirect
 	modernc.org/memory v1.5.0 // indirect
 	modernc.org/opt v0.1.3 // indirect
-	modernc.org/ql v1.4.3 // indirect
+	modernc.org/ql v1.4.4 // indirect
 	modernc.org/sortutil v1.1.1 // indirect
 	modernc.org/sqlite v1.20.0 // indirect
 	modernc.org/strutil v1.1.3 // indirect
