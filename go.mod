@@ -6,7 +6,7 @@ require (
 	github.com/bufbuild/buf v1.11.0
 	github.com/gogo/protobuf v1.3.2
 	github.com/google/wire v0.5.0
-	github.com/grpc-ecosystem/grpc-gateway/v2 v2.14.0
+	github.com/grpc-ecosystem/grpc-gateway/v2 v2.15.0
 	github.com/jfeliu007/goplantuml v1.6.1
 	github.com/xo/usql v0.13.4
 	golang.org/x/tools v0.4.0
